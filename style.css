@@ -201,6 +201,6 @@ nav ul li a::after{
 .work:hover .layer{
     height: 10%;
 }
-.contacting{
+#contact{
     padding: 50px;
 }
